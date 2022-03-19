@@ -152,7 +152,6 @@ body {
    text-align: left;
    width: 60vw;
    padding: 20px;
-   font-family: monospace;
  }
 
  .project2  {
@@ -171,7 +170,6 @@ body {
   width: 60vw;
   padding: 20px;
   padding-right: 20px;
-  font-family: monospace;
 }
 
 .project3  {
@@ -189,7 +187,6 @@ body {
   text-align: left;
   width: 60vw;
   padding: 20px;
-  font-family: monospace;
 }
 
  footer {
